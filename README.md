@@ -1,2 +1,2 @@
 # pythonlab
-Laba python 1
+Lab 1. Testing and practice GIT projects.

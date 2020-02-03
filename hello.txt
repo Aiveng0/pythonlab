@@ -1,3 +1,2 @@
-hello 12:24 03.02.2020
-qq
-eng 12:28
+python lab 1 complete.
+Lab 1 python. Git learning
